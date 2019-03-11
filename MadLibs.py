@@ -1,6 +1,3 @@
-# Aashir Khan
-# Lab 6.1 - Mad Libs
-
 from tkinter import *
 
 class Application(Frame):
